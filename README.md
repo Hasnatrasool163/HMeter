@@ -22,6 +22,11 @@ To integrate HMeter into your Java Swing application, follow these steps:
 4. Customize the meter's appearance and behavior using the provided setter methods.
 5. Monitor and update the progress as needed in your application logic.
 
+## ScreenShot
+
+![Screenshot (1135)](https://github.com/Hasnatrasool163/H-Meter/assets/153990457/9f8f88fd-7cb1-4e0c-af28-3960bbe58da2)
+
+
 ## Usage
 
 Here's a simple example demonstrating how to use HMeter:
