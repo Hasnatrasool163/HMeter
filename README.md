@@ -47,7 +47,7 @@ public class MainFrame extends JFrame {
 
         // Customize HMeter appearance
         hMeter.setProgressColor(Color.BLUE);
-        hMeter.setTextColor(Color.WHITE);
+        hMeter.setTextColor(Color.BLACK);
         hMeter.setBackgroundColor(Color.WHITE);
 
         // Add HMeter to the frame
