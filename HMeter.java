@@ -1,4 +1,8 @@
-package meter;
+//@ author Muhammad Hasnat Rasool
+// HMeter widget to show progress in Applications
+// All rights reserved @2024
+
+package Hasnat;
 
 import javax.swing.*;
 import java.awt.*;
