@@ -17,8 +17,8 @@ HMeter is a highly customizable Java Swing widget designed to display horizontal
 
 To integrate HMeter into your Java Swing application, follow these steps:
 
-1. Download the `HMeter.java` file.
-2. Include `HMeter.java` in your project's source directory.
+1. Download the `HMeter.jar ` file.
+2. Include `HMeter.jar` in your project's source directory,import HASNAT.HMeter.
 3. Instantiate an `HMeter` object and add it to your Swing component hierarchy.
 4. Customize the meter's appearance and behavior using the provided setter methods.
 5. Monitor and update the progress as needed in your application logic.
@@ -37,6 +37,7 @@ Here's a simple example demonstrating how to use HMeter:
 
 import javax.swing.*;
 import java.awt.*;
+// import HASNAT.HMeter
 
 public class MainFrame extends JFrame {
     public MainFrame() {
