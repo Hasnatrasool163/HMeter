@@ -71,7 +71,7 @@ Contributions to HMeter are welcome! If you find any issues or have suggestions 
 
 ## License
 
-HMeter is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/your-repository/blob/master/LICENSE) file for details.
+HMeter is licensed under the MIT License. See the [LICENSE](https://github.com/hasnatrasool163/HMeter/blob/main/LICENSE) file for details.
 
 ---
 
