@@ -14,7 +14,7 @@ public class HMeter extends JPanel {
     private int progress = 0; // Current progress value
     private Color progressColor = Color.GREEN; // Color of the progress arc
     private Color textColor = Color.BLACK; // Color of the text
-    private Color backgroundColor = getBackgroundColor(); // Background color of the meter
+    private Color backgroundColor = Color.WHITE; // Background color of the meter
     private int padding = 10; // Padding around the meter
     private String text = ""; // Text displayed in the meter
     private boolean isHollow = true; // Whether the progress arc is hollow or filled
