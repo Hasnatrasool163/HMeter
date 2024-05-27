@@ -11,6 +11,7 @@ HMeter is a highly customizable Java Swing widget designed to display horizontal
 - **Animation**: Optionally animate the progress to provide a more engaging user experience.
 - **Mouse Interaction**: Enable interactive control of the progress through mouse dragging.
 - **Responsive Design**: Ensures a minimum height for the meter to maintain proper visibility.
+- **Set Background**: Ensure a consistent design and personalization.
 
 ## Getting Started
 
@@ -25,6 +26,9 @@ To integrate HMeter into your Java Swing application, follow these steps:
 ## ScreenShot
 
 ![Screenshot (1135)](https://github.com/Hasnatrasool163/H-Meter/assets/153990457/9f8f88fd-7cb1-4e0c-af28-3960bbe58da2)
+
+![Screenshot (1140)](https://github.com/Hasnatrasool163/H-Meter/assets/153990457/090a2fb4-64cc-4860-bbd7-7c14610d8f7b)
+
 
 
 ## Usage
